@@ -41,6 +41,7 @@ In this project, SQL queries are used to extract useful information and insights
 
 ### Notes
 - Ensure you have the proper software installed to open `.7z` files (e.g., [7-Zip](https://www.7-zip.org/)).
+- The project files, including SQL queries and the documentation in PDF format, are contained within this `.7z` archive.
 
   
 ## Author  
