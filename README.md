@@ -39,9 +39,9 @@ In this project, SQL queries are used to extract useful information and insights
 - Cumulative revenue analysis over time.
 - Top 3 most ordered pizza types based on revenue for each pizza category.
 
-## Contact
-If you have any questions or feedback regarding this project, feel free to reach out to me:
+## Author  
+Created by **[Divyanshi Doser]**
 
 - **Email**: divyanshidoser@gmail.com
 - **LinkedIn**: [Divyanshi Doser](https://www.linkedin.com/in/divyanshi-doser)
-- 
+
