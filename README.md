@@ -39,6 +39,10 @@ In this project, SQL queries are used to extract useful information and insights
 - Cumulative revenue analysis over time.
 - Top 3 most ordered pizza types based on revenue for each pizza category.
 
+### Notes
+- Ensure you have the proper software installed to open `.7z` files (e.g., [7-Zip](https://www.7-zip.org/)).
+
+  
 ## Author  
 Created by **[Divyanshi Doser]**
 
